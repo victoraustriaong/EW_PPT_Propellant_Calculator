@@ -1,2 +1,2 @@
 # uPPT_Utilities
-This repositories includes utility codes from the uPPT project at school.
+This repository includes utility codes from the uPPT electric propulsion project.
